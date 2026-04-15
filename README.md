@@ -143,6 +143,7 @@ The anatomical model is a **decision surface** more than a reporting tool.
 
 ### If Given Another 8 hours:
 
+- Improve input feedback at the "log set" step. I ran out of time, but that screen needs a "next exercise" button under the confirm set, and the rest timer needs a start button. In the MVP the user is directed to the current workout session prematurely. 
 - Set up full state management logic for full functionality
 - Build user cloud sync via fully secured S3 buckets on AWS
 - Upgrade to **accurate 3D anatomical model** with muscle layer filtering, swivel + pinch navigation, and coded color highlights
