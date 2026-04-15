@@ -5,7 +5,7 @@
 
 ## Overview
 
-Kinetic is an **effortless workout tracking app with AI-assisted exercise identification** designed for advanced gym-goers who want high visibility on per-muscle status with minimum effort.
+Kinetic is an **effortless workout tracking app with AI-assisted exercise identification** designed for advanced gym-goers who want high visibility on per-muscle recovery status with minimum effort.
 
 The app removes friction from exercise logging by automatically identifying exercises from existing machine labels and visualizing muscle recovery in real time.
 
